@@ -1,3 +1,1 @@
-### Подписывайся на TeleGram канал - https://t.me/ulbi_tv
-##
-### PDF версия урока здесь - https://www.patreon.com/ulbitv
+### JWT авторизация на React и Node js. Access, refresh, активация по почте
